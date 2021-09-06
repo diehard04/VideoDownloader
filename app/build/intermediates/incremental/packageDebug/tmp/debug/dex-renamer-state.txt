@@ -1,0 +1,4 @@
+#Sun Sep 05 23:07:23 IST 2021
+base.0=E\:\\DEMO\\AndroidDemo\\Video-Downloader-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
